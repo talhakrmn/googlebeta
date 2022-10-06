@@ -1,0 +1,59 @@
+.logo {
+text-align: center;
+margin-top: 10%;
+}
+
+
+
+.main  {
+    background-color: #EEEEEE;
+}
+
+
+
+.box {
+
+
+  width: 35%;
+  background-color:aqua;
+  float: left ;
+text-align: center;
+height: 90px;
+margin-right: 5px;
+padding-top: 3px;
+  padding-bottom: 5px;
+ }
+
+ .box2 {
+  height: 90px;
+    width: 18%;
+    background-color:rgb(82, 197, 197);
+    float: left ;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 5px;
+   }
+
+   .box3 {
+
+height: 90px;
+    width: 46%;
+    background-color:rgb(6, 161, 138);
+    float: left ;
+  text-align: center;
+
+  margin-right: 5px;
+  padding-top: 5px;
+    padding-bottom: 5px;
+   }
+
+   .yaz {
+
+
+    padding-top: 10px;;
+   }
+
+   .foot {
+    margin: 100px;
+}
